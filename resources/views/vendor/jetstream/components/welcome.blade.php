@@ -4,7 +4,7 @@
     </div>
 
     <div class="mt-8 text-2xl">
-        Welcome to Costore Application!
+        Welcome to Tony Application!
     </div>
 
     <div class="mt-6 text-gray-500">
