@@ -1,3 +1,3 @@
 <a href="/"></a>
-    <img src="/logo.svg" alt="Application Logo" />
+    <img src="/logo.png" alt="Application Logo" style="height: 250px" />
 </a>

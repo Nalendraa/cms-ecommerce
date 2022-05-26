@@ -1,1 +1,1 @@
-<img src="/logo.svg" alt="Application Logo" style="height: 40px" />
+<img src="/logo.png" alt="Application Logo" style="height: 80px" />
